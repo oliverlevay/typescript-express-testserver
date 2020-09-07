@@ -1,0 +1,19 @@
+{
+  "name": "typescript-express-testserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverlevay/typescript-express-testserver.git"
+  },
+  "author": "oliverlevay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverlevay/typescript-express-testserver/issues"
+  },
+  "homepage": "https://github.com/oliverlevay/typescript-express-testserver#readme"
+}
